@@ -1,149 +1,49 @@
-<!-- HEADER BANNER -->
-<h1 align="center">⚡ Roshan-Hacker-Back ⚡</h1>
+# Welcome to Roahan Hacker Back
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Builder;Android+App+Creator;Always+Learning+New+Things" />
-</p>
+## ✨ Stylish README with Animations ✨
 
----
-
-# 🧠 About Me
-
-```bash
-> whoami
-Name: Roshan Hacker
-Role: Cyber Security Enthusiast & Developer
-Focus: Android Apps | AI Systems | Web Projects
-Mission: Build Powerful and Smart Systems
-Status: Learning Everyday 🚀
-Warning: Highly Curious Mind at Work ⚠️
-```
+![Animated Banner](https://example.com/link-to-animation)
 
 ---
 
-# 🧰 Tech Arsenal
+## 🤖 About AI
+Artificial Intelligence (AI) is a field of computer science that aims to create machines capable of intelligent behavior. AI technologies include machine learning, natural language processing, and robotics. With AI, we can perform tasks that were once thought to be exclusive to humans, such as decision making, speech recognition, and more.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,html,css,js,git,github,linux" />
-
-</p>
-
----
-
-# ⚙️ Tools I Use
-
-- Kali Linux  
-- Android IDE  
-- Firebase  
-- GitHub  
-- AI Builders  
+### Applications of AI:
+- **Healthcare:** AI assists in diagnosis and treatment recommendations.
+- **Finance:** Algorithms predict market trends.
+- **Gaming:** AI controls NPC behavior, providing realistic experiences.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Hacker-Back&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-Hacker-Back&theme=tokyonight" />
-</p>
+## 🛠️ Hacking Tools
+In the world of cybersecurity, various tools are essential for ethical hacking and penetration testing. Some popular tools include:
+- **Metasploit:** A penetration testing framework that simplifies the process of exploiting vulnerabilities.
+- **Nmap:** A network scanning tool that can detect open ports and running services.
+- **Wireshark:** A protocol analyzer used to capture and inspect network traffic.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan-Hacker-Back&theme=react-dark"/>
-</p>
-
----
-
-# 🧪 Current Projects
-
-- Advanced AI Chat System  
-- Android Automation Tools  
-- Firebase Based Apps  
-- Cyber Security Experiments  
+## 💻 Master Languages
+Here are some of the programming languages you can master to excel in AI and hacking:
+- **Python:** Widely used in AI due to its simplicity and practicality.
+- **JavaScript:** Essential for web applications and ethical hacking.
+- **C/C++:** Important for understanding low-level system operations.
 
 ---
 
-# 🚀 Future Goals
+## 📞 Extended Contact Information
+For collaborations or inquiries, you can reach me at:
+- **Email:** roahan@example.com
+- **Twitter:** [@roahan_hacker_back](https://twitter.com/roahan_hacker_back)
+- **LinkedIn:** [Roahan Hacker Back](https://www.linkedin.com/in/roahan-hacker-back)
 
-- Build Full AI Assistant  
-- Create Powerful Android Apps  
-- Launch SaaS Tools  
-- Learn Advanced Security  
-
----
-
-# 🧠 Random Hacker Quote
-
-> "Security is not a product, it's a mindset."
+Feel free to connect with me to discuss exciting opportunities!
 
 ---
 
-# 🎮 Fun Animation Section
+## 🔗 Links:
+- [GitHub Profile](https://github.com/Roahan-Hacker-Back)
+- [My Projects](https://github.com/Roahan-Hacker-Back?tab=repositories)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Roshan-Hacker-Back">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-# 🧩 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Roshan-Hacker-Back&color=blue&style=flat-square">
-</p>
-
----
-
-# ⚡ System Status
-
-```bash
-Initializing System...
-Loading Modules...
-Access Granted ✔
-Welcome, Roshan Hacker
-```
-
----
-
-# 🔥 Terminal Style Section
-
-```bash
-root@system:~# access profile
-Loading skills...
-Loading projects...
-Access Complete
-```
-
----
-
-# 🏆 Achievements
-
-- Built AI Systems  
-- Developed Android Apps  
-- Firebase Integrations  
-- Automation Scripts  
-
----
-
-# 🎯 Final Note
-
-> Never Stop Building  
-> Never Stop Learning  
-> Never Stop Hacking
+Thank you for visiting my README! 🤓
